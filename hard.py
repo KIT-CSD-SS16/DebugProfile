@@ -1,6 +1,6 @@
 """
-Compute the density over a range of x and y coordinates. But somehow the algorithm does not
-terminate properly ...
+Compute the density over a range of x and y coordinates. But somehow the algorithm does not actual do the bin splitting
+and termination properly ...
 """
 
 minimum_bin_size = 0.1
